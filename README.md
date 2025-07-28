@@ -21,7 +21,8 @@ The project aims to:
 - Identify risk factors, such as suicidal thoughts and financial stress, that contribute to depression levels.
 - Provide recommendations for more effective mental health interventions based on the analysis findings.
 
-### Dataset [Student Depression Dataset.zip]
+### Dataset [Student Depression]
+Student Depression Dataset.zip
 Contains 11 variables measuring:
 1. Age (Numerical)
 2. Gender (Categorical)  
